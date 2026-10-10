@@ -1,0 +1,13 @@
+review,expected,baseline,roberta,base_ok,rob_ok
+"Absolutely loved it, will buy again!",Positive,Positive,Positive,True,True
+"Terrible quality, broke in two days. Waste of money.",Negative,Negative,Negative,True,True
+"It's okay, nothing special.",Neutral,Neutral,Neutral,True,True
+Not bad at all.,Positive,Neutral,Positive,False,True
+"Great, another box arrived crushed. Just what I needed.",Negative,Positive,Positive,False,False
+The taste is amazing but the packaging was damaged.,Neutral,Positive,Negative,False,False
+"Delivery was late, but the product is worth the wait.",Positive,Positive,Positive,True,True
+I expected more for this price.,Negative,Neutral,Neutral,False,False
+Average product. Does the job.,Neutral,Neutral,Neutral,True,True
+Not worth it. Would not recommend.,Negative,Negative,Negative,True,True
+Best coffee I have ever had!!!,Positive,Positive,Positive,True,True
+Product arrived on time. Packaging was fine.,Neutral,Neutral,Positive,True,False
